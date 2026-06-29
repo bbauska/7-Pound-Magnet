@@ -2,7 +2,7 @@
 .container {
   --s: 150px; /* size of the logo */
   --d: 18s; /* --d: 8s; animation duration*/
-  --n: 14; /* --n: 4; number of visible logos */
+  --n: 4; /* --n: 4; number of visible logos */
   display: flex;
   overflow: hidden;
 }

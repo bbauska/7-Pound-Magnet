@@ -1,9 +1,8 @@
-/* css/styles.css of 7-Pound-Magnet for unknown as yet */
+/* css/styles.css of 7-Pound-Magnet for 7-Pound-Magnet.bauska.org */
 .container {
   --s: 150px; /* size of the logo */
   --d: 8s; /* animation duration*/
   --n: 4; /* number of visible logos */
-  
   display: flex;
   overflow: hidden;
 }
@@ -34,7 +33,6 @@ body {
   --s: 150px; /* size of the logo */
   --d: 8s; /* animation duration*/
   --n: 4; /* number of visible logos */
-  
   display: flex;
   overflow: hidden;
 }
@@ -47,7 +45,6 @@ img {
 @keyframes x { 
   to {offset-distance: 100%}
 }
-
 
 /* extra styles */
 .container {

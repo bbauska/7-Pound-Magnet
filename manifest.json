@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "7 Pound Magnet",
+  "short_name": "7 Lb Magnet", 
+  "start_url": "/7-Pound-Magnet.bauska.org",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",

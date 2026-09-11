@@ -1,7 +1,7 @@
 {
   "name": "Responsive infinite logo marquee",
   "short_name": "Logo Marquee", 
-  "start_url": "/7-Pound-Magnet.bauska.org",
+  "start_url": "7-Pound-Magnet.bauska.org",
   "display": "standalone",
   "icons": [
   {
